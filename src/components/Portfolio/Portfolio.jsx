@@ -30,7 +30,7 @@ const Portfolio = () => {
           
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://recibook.onrender.com/" target="blank"><img src={recipeimg} alt="" /></a>
+        <a href="https://recibookbydg.onrender.com/" target="blank"><img src={recipeimg} alt="" /></a>
           
         </SwiperSlide>
         <SwiperSlide>
